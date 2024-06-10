@@ -1,7 +1,11 @@
-# Bad Licenses
-A compendium of absurd, funny, and downright bad licenses. A table of contents is provided here with titles and a summary of what the license does. Sources, when available, are provided in the descriptions. Also, don't take this seriously.
+# This is Definitely One Of The Licenses
+A personal fork of ErikMcClure's Bad Licenses repo. A table of contents is provided here with titles and a summary of what the license does. Sources, when available, are provided in the descriptions. Also, don't take this seriously. Or anything I say for that matter.
 
-UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
+UNOFFICIAL LEGAL ADVICE: I'm using these because I AM THE FOOL THAT FEARS NAUGHT; I AM TOO FAR GONE, BEYOND SALVATION.
+
+* **[Buena Onda License Agreement](BOLA-License)**
+
+  A license that releases the source code into the public domain, but politely asks you to not do mean things with it. [Source](https://blitiri.com.ar/p/bola/)
 
 * **[Passive-Aggressive License](passive-aggressive-license)**
   
@@ -9,11 +13,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
   
 * **[Hot Potato License](hot-potato-license)**
 
-  Transfers exclusive ownership of the entire project to whoever committed the last change.
-  
-* **[Buena Onda License Agreement](BOLA-License)**
-
-  A license that releases the source code into the public domain, but politely asks you to not do mean things with it. [Source](https://blitiri.com.ar/p/bola/)
+  Transfers exclusive ownership of the entire project to whoever committed the last change. Fucking hilarious if you ask me. This is the license for this repo by the way.
   
 * **[DON'T BE A DICK PUBLIC LICENSE](dbad-license.md)**
   
@@ -46,10 +46,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Bantown Public License](Bantown-public-license)**
 
   This license requires you commit criminal acts to use the code.
-
-* **[Do No Harm License](no-harm-license)**
-
-  A license that claims anyone using the software can't use it for "bad" purposes, and then provides a very questionable list of said "bad" things, which includes "gambling", "nuclear energy", "burning down forests" or "lobbying against peace". Despite providing a clear definition of what "burning down forests" means, no other definitions are provided. [Source](https://github.com/raisely/NoHarm/blob/publish/LICENSE.md)
   
 * **[Be Gay Do Crimes License](be-gay-do-crimes-license)**
 
