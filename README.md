@@ -1,7 +1,7 @@
 # This is Definitely One Of The Licenses
 A personal fork of ErikMcClure's Bad Licenses repo. A table of contents is provided here with titles and a summary of what the license does. Sources, when available, are provided in the descriptions. Also, don't take this seriously. Or anything I say for that matter.
 
-UNOFFICIAL LEGAL ADVICE: I'm using these because I AM THE FOOL THAT FEARS NAUGHT; I AM TOO FAR GONE, BEYOND SALVATION.
+UNOFFICIAL LEGAL ADVICE: I AM THE FOOL THAT FEARS NAUGHT; I AM TOO FAR GONE, BEYOND SALVATION.
 
 * **[Buena Onda License Agreement](BOLA-License)**
 
