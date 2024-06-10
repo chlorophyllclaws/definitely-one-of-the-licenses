@@ -6,10 +6,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Passive-Aggressive License](passive-aggressive-license)**
   
   A license that allows you to copy, modify, or distribute the source code or compiled binaries, but doesn't let you run the program.
-
-* **[Non-White-Heterosexual-Male License](Non-White-Heterosexual-Male.md)**
-
-  A license that lets anyone who isn't a white heterosexual male do whatever they want. Otherwise you have to follow the rules. [Source](https://nonwhiteheterosexualmalelicense.org/)
   
 * **[Hot Potato License](hot-potato-license)**
 
@@ -30,10 +26,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[YOLO License](YOLO-LICENSE)**
 
   420 blaze it ᕕ( ᐛ )ᕗ
-  
-* **[JSON License](JSON-License.md)**
-
-  An MIT-style license with a morality clause stating "The Software shall be used for Good, not Evil." Of course, Good and Evil are subjective, so this is legally unenforceable at best, and may or may not allow the author to sue you for any reason. [Source](http://www.json.org/license.html)
 
 * **[Happy Bunny License](happy-bunny-license)**
 
@@ -50,22 +42,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[THE STRONGEST PUBLIC LICENSE](STRONGEST-PUBLIC-LICENSE)**
 
   Based on the WTFPL, with an additional condition that you "APPRECIATE CIRNO AS THE STRONGEST IN GENSOKYO." [Source](https://github.com/rossy/img2xterm/blob/e24d13686c10c25f79f7a2841d8bb95c5571d261/img2xterm.c#L1-L18) [Discussion](https://github.com/rossy/img2xterm/issues/7)
-  
-* **[LHA License](lha-license)**
-
-  An antiquated license originally in Japanese with bizarre requirements and vague wording.
-  
-* **[Minecraft Mod Public License](minecraft-mod-license)**
-
-  A license intended for minecraft mods, which, among other things, requires the end-user to own a legal copy of Minecraft. Should not be used on things that aren't minecraft mods (for that matter, probably shouldn't be used at all).
-  
-* **[Anyone But Richard Stallman License](ABRMS-license.md)**
-
-  Anyone can do anything they want with the software, except Richard Stallman, who cannot use or redistribute it in any way. [Source](https://github.com/landondyer/kasm/blob/master/LICENSE)
-
-* **[Nice License](nice-license)**
-
-  You can only use the software if you properly document your public API. No definition for "negligent" documentation is provided. [Source](https://bitbucket.org/haibison/binn-ir/src/master/LICENSE)
 
 * **[Bantown Public License](Bantown-public-license)**
 
@@ -87,10 +63,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A joke license created for the 2009 April Fool's day PEP (Python Enhancement Proposal). [Source](https://www.python.org/dev/peps/pep-0401/#copyright)
 
-* **[Katharos License](katharos-license.md)**
-
-  A license that demands religious "purity" and requires the usage to be "good" as defined by the "full 66 books of the Holy Bible". [Source](https://github.com/katharostech/katharos-license/blob/master/LICENSE_v0.1.0.md)
-  
 * **[Don't Ask Me About It License](dont-ask-me.md)**
 
   A license that lets anyone do whatever they want, provided they never contact the author about anything covered by the license. [Source](https://github.com/mTvare6/hello-world.rs/blob/master/LICENSE)
@@ -110,22 +82,14 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[MRMO-Halftone license](mrmo-halftone-license)**
 
   A two-tiered license which allows only non-commercial and commercial use respectively, but "excluding those relating to or containing non-fungible tokens ("NFT") or blockchain-related projects" in either tier, which makes no legal sense. Git uses a merkle-tree, is that blockchain? Does blockchain only refer to proof-of-work algorithms? What about proof-of-stake? Are furry adoptables NFTs? Without legal clarification this license could be used to sue basically anyone. [Source](https://mrmotarius.itch.io/mrmo-halftone)
-  
-* **[general-simh-license](general-simh-license)**
-
-  An MIT derivative license the contradicts it's own "no restrictions" clause by saying that if you modify one of two specific source files, you are no longer eligible to use any future contributions to the repository. It is unclear how this would legally work in situations where people have forked the original repository.
 
 * **[The Satania Daiakuma License](Satania-Daiakuma-License)**
 
   An MIT derivative license that forbids promotion of "any characters from the anime Gabriel Dropout in any way except Satania". [Source](https://github.com/Pizzacus/satania.moe/blob/master/LICENSE.md)
 
-* **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
+* **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions 2: electric boogaloo](YOLO-WTFPL-SEX-2-LICENSE)**
 
-  A WTFPL derivation license which combines aspects of WTFPL, YOLO, THE STRONGEST PUBLIC LICENSE, and a clause saying one guy the author really hates is not allowed to use the software at all. [Source](https://github.com/SantX27/yu-topy/blob/master/LICENSE)
-
-* **[For Good Eyes Only Licence v0.2](for-good-eyes-only-licence-0.2.md)**
-
-  Another "don't be unethical" license, which does an impressive job at legally defining exactly what "unethical" means. Unfortunately, while this is better than the JSON license, most programmers don't want to track if a country's score in the Reporters Without Borders “Press Freedom Index” is worse than 40. [Source](https://forgoodeyesonly.eu/)
+  A WTFPL derivation license which combines aspects of WTFPL, YOLO, THE STRONGEST PUBLIC LICENSE, and a clause saying some guys the author really hates are not allowed to use the software at all. [Original](https://github.com/SantX27/yu-topy/blob/master/LICENSE)
 
 * **[wg-easy license](wg-easy-license.md)**
 
@@ -139,17 +103,9 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   An "open-source" software license that is not actually open-source or intended for software, created instead to protect an asset library. Uses informal language and has inconsistent rules about who can use the library, including saying that nobody working for any government in any capacity can use the library, even for their own personal use. Also says it can't be used for AI without defining what AI means (what about video game AI?)
 
-* **[I HATE AI LICENSE](i-hate-ai-license)**
-
-  A non-software license similar to the Creative Commons that bans all use of the content in "AI technologies", giving an extremely broad definition of AI that would include things like video game AI or simple image recognition algorithms. [Source](https://ihateailicense.eu/)
-
 * **[Nuclear Waste Software License](NWSL)**
 
   A possibly MIT-like license for software that is neither a place of honor, nor in commemoration of a highly esteemed deed, etc. [Source](https://gist.github.com/DavidBuchanan314/35cb9f8a2f754b9a03a74bed19575661)
-
-* **[Opinionated Queer License](opinionated-queer-license.md)**
-
-  Another license with vague requirements for not allowing anyone to use it for racist or bigoted purposes (who is deciding what counts as racist for the purpose of this license?), but gets bonus points for prohibiting any sale of the software or derivative works unless "substantial changes to the Work" are made, which explicitly violates the OSI open-source license standard.
 
 * **[OTTer license](OTTer-license)**
   
