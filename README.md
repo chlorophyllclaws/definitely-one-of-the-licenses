@@ -16,6 +16,10 @@ UNOFFICIAL LEGAL ADVICE: I AM THE FOOL THAT FEARS NAUGHT; I AM TOO FAR GONE, BEY
 
   FUCK YOU LICENSES
 
+  * **[1337 License](1337-license.md)**
+
+    A very much needed and professional license pointing out that the Gregorian calendar is blatantly obsolete. Fuck the Gregorian calendar.
+
   * **[Passive-Aggressive License](passive-aggressive-license)**
   
   A license that allows you to copy, modify, or distribute the source code or compiled binaries, but doesn't let you run the program.
@@ -66,9 +70,7 @@ UNOFFICIAL LEGAL ADVICE: I AM THE FOOL THAT FEARS NAUGHT; I AM TOO FAR GONE, BEY
 
   ?????????
 
-* **[THE "LITTLE SUS DISTRO" (LSD) LICENSE, VERSION 1](lsd-license)**
-
-  A BSD-style parody license based on the Original 4-clause BSD License with a GREAT acronym. The previous variation of the license used the "Software must be used for Good and not Evil" clause from the JSON License, and a non-commercial clause. Prevously known as `THE "I AM BASED AND NOT SUSSY" LICENSE` and the `THE "Sussy Baka" LICENSE, VERSION 1`. [Source](https://github.com/Amog-OS/AmogOS/blob/main/LICENSE)
+* **[FUCK YOU, BALTIMORE! license](FYB-license.md)**
 
 * **[MRMO-Halftone license](mrmo-halftone-license)**
 
@@ -99,10 +101,3 @@ UNOFFICIAL LEGAL ADVICE: I AM THE FOOL THAT FEARS NAUGHT; I AM TOO FAR GONE, BEY
 
   Using this software requires giving your first child to the author so that they can "immolate it to the devil". [Source](https://github.com/Gottox/sltar/blob/f43d20638774b1f77ef4fa606330126872ae549d/LICENSE)
 
-
-  GAYMER LICENSES
-  
-
-  * **[Play a Decent Hero License](funny-dota-license)**
-
-  Modification, distribution, and sale of the source code is only allowed if your competitive rank in DotA 2 is higher than the maintainer's. Additionally, you're judged based on your hero choices. Because fuck you.
