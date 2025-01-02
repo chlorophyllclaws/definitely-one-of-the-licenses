@@ -1,0 +1,7 @@
+FUCK YOU, BALTIMORE License
+
+Version 69.420 - (c) (name) (year)
+
+I. The source code in this repository is only to be used in accordance with the following statement: 
+
+FUCK YOU, BALTIMORE! If you're dumb enough to buy a new car this weekend, you're a big enough schmuck to come to Big Bill Hell's Cars. Bad Deals! Cars that break down!! Thieves!!! If you think that you're gonna find a bargain at Big Bill's, you can kiss my ass! It's our belief that you're such a stupid motherfucker, you'll fall for this bullshit! Guaranteed! If you find a better deal, SHOVE IT UP YOUR UGLY ASS!! You heard us right, SHOVE IT UP YOUR UGLY ASS!!! Bring your trade, bring your title, bring your wife! We'll fuck her! That's Right! We'll fuck your wife! Because at Big Bill Hell's, you're fucked six way to Sunday! Take a hike to Big Bill Hell's! Home of challenge pissing! That's right, challenge pissing! How does it work? If you can piss 6 feet in the air straight up and not get wet, you get no down payment. Don't wait, don't delay. Don't fuck with us, or we'll rip your nuts off! Only at Big Bill Hell's: The only dealer that tells you to fuck off! Hurry up, asshole! This event ends the minute after you write us a check, and it better not bounce or you're a dead motherfucker! Go to hell! Big Bill Hell's Cars: Baltimore's filthiest and exclusive home of the meanest sons of bitches of the state of Maryland. Guaranteed!
